@@ -3,7 +3,7 @@ This project presents an interactive Sales & Profit Dashboard built in Microsoft
 The dashboard uses pivot tables, charts, and slicers for interactive analysis.
 
 ## Dataset Used
-- <a href="https://github.com/JatinTech1/Sales-and-Profit-Dashboard/blob/main/Sales%20and%20Profit%20Data.xlsx">
+- <a href="https://github.com/JatinTech1/Sales-and-Profit-Dashboard/blob/main/Sales%20and%20Profit%20Data.xlsx">Dataset</a>
 
 ## Key Insights
 -	Profit by Year – Tracked yearly profitability trends to monitor business growth.
