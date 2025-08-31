@@ -6,7 +6,7 @@ The dashboard uses pivot tables, charts, and slicers for interactive analysis.
 •	Profit by Year – Tracked yearly profitability trends to monitor business growth.
 •	Sales by Category – Analysed category-level sales contribution.
 •	Customer Count by Year – Monitored customer acquisition and retention over time.
-•	Sales by State – Visualized regional sales performance.
+-	Sales by State – Visualized regional sales performance.
 •	Sales by Month – Identified seasonality and monthly fluctuations.
 •	Top 5 Customers by Profit – Highlighted most profitable customers.
 
