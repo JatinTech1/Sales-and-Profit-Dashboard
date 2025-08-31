@@ -2,6 +2,9 @@
 This project presents an interactive Sales & Profit Dashboard built in Microsoft Excel to analyse business performance and uncover valuable insights.
 The dashboard uses pivot tables, charts, and slicers for interactive analysis.
 
+## Dataset Used
+- <a href="https://github.com/JatinTech1/Sales-and-Profit-Dashboard/blob/main/Sales%20and%20Profit%20Data.xlsx">
+
 ## Key Insights
 -	Profit by Year – Tracked yearly profitability trends to monitor business growth.
 -	Sales by Category – Analysed category-level sales contribution.
@@ -39,4 +42,5 @@ This dashboard provides a comprehensive view of sales and profit performance, he
 -	Optimize regional sales strategy
 -	Focus on key profitable customers
 
-
+## Dashboard
+<img width="1667" height="805" alt="Screenshot 2025-08-22 023243" src="https://github.com/user-attachments/assets/08d58bef-a12a-453c-8dfa-57022595f753" />
